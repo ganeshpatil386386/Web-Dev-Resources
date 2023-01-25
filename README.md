@@ -2,10 +2,6 @@
 
 This repository includes all reosurces ou need to learn web development from tools, articles,blogs to valueble courses to do!
 
-> **Note**
->
-> - To add your contributons edit `readme.md` file .
-> - Add only valuble resource to learn wbe development.
 
 ## HTML
  | Sr.No | Docs | Youtube | Platforms | Courses | Tools |
