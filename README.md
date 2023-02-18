@@ -3,7 +3,7 @@
 This repository includes all reosurces ou need to learn web development from tools, articles,blogs to valueble courses to do!
 
 
-[Lena Design - Web Development Guide for Absolute Beginners](https://lenadesign.org/)
+1. [Lena Design - Web Development Guide for Absolute Beginners](https://lenadesign.org/)
  
  
  ## 👨‍💻 Contributing
