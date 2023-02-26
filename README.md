@@ -22,7 +22,7 @@ This repository includes all reosurces ou need to learn web development from too
 
 
 ### Javascript 
-1. JS Basics fro Codedamn
+1. JS Basics from Codedamn
 2. Build small projects Scrimba 
 3. React Guide - Pedro Tech
 4. React Projects - JSMastery 
