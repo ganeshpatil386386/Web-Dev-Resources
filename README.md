@@ -26,8 +26,12 @@ This repository includes all reosurces ou need to learn web development from too
 2. Build small projects Scrimba 
 3. React Guide - Pedro Tech
 4. React Projects - JSMastery 
-
- 
+5. Node & Express 
+6. MongoDB
+7. Nextjs
+8. Graphql
+9. React Native - Mobile Applicatins
+10. Electronjs  - Desktop Applications
  
  ## 👨‍💻 Contributing
 
