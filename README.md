@@ -22,6 +22,7 @@ frontendn, Backend, Fullstack to security tools & resources everything at one pl
 9. [Notion Creator Roadmap](https://www.notion.so/GFG-Content-db4e235f7a7e4cbd87e9e9423b5305bb)
 10. [Web dev Learn](https://web.dev/learn/) 
 11. [Awesome DevRel](https://github.com/ganeshpatil386386/awesome-devrel)
+12. [Online Computer Science Degree - Github Repository](https://github.com/Developer-Y/cs-video-courses)
 
 
 # Linux Resources
