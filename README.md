@@ -1,8 +1,14 @@
 # Web-Dev-Resources
 
-This repository includes all reosurces ou need to learn web development from tools, articles,blogs to valueble courses to do!
+This repository includes all reosurces ou need to learn web development from scartch with advance guide from 
+frontendn, Backend, Fullstack to security tools & resources everything at one place.
+<br> <br>
+<b>It Contains </b>
+- Web Development 
+- Linux
+- Backend Development
 
-# Resources
+# Web Development
 
 1. [Lena Design - Web Development Guide for Absolute Beginners](https://lenadesign.org/)
 1. [JavaScript info](https://javascript.info/) 
@@ -18,10 +24,10 @@ This repository includes all reosurces ou need to learn web development from too
 11. [Awesome DevRel](https://github.com/ganeshpatil386386/awesome-devrel)
 
 
+# Linux Resources
 
 
-
-### Javascript 
+### Javascript Roadmap 2023
 1. JS Basics from Codedamn
 2. Build small projects Scrimba 
 3. React Guide - Pedro Tech
