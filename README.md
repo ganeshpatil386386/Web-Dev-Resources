@@ -26,7 +26,8 @@ frontendn, Backend, Fullstack to security tools & resources everything at one pl
 
 
 # Linux Resources
-
+1. [HacktheBox - Learn Linux Online](https://academy.hackthebox.com/dashboard)
+2. [NetworkChunk - Youtube Playlist](https://www.youtube.com/watch?v=VbEx7B_PTOE&list=PLIhvC56v63IJIujb5cyE13oLuyORZpdkL)
 
 ### Javascript Roadmap 2023
 1. JS Basics from Codedamn
