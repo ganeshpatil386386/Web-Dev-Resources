@@ -7,6 +7,9 @@ frontendn, Backend, Fullstack to security tools & resources everything at one pl
 - Web Development 
 - Linux
 - Backend Development
+- Machine Learning
+- DevOps Resources
+- DevRel Resources
 
 # Web Development
 
