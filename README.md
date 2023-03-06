@@ -3,9 +3,10 @@
 This repository includes all reosurces ou need to learn web development from scartch with advance guide from 
 frontendn, Backend, Fullstack to security tools & resources everything at one place.
 <br> <br>
-<b>It Contains </b>
+Resources Guide ->
+
 - Web Development 
-- Linux
+- Linux Resources
 - Backend Development
 - Machine Learning
 - DevOps Resources
