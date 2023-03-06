@@ -12,28 +12,44 @@ Resources Guide ->
 - DevOps Resources
 - DevRel Resources
 
+# Online Computer Science Degree
+1. [Online Computer Science Degree - Github Repository](https://github.com/Developer-Y/cs-video-courses)
+2. [Computer Scinece Books](https://github.com/EbookFoundation/free-programming-books/blob/main/courses/free-courses-en.md#sql)
+3. [free for Dev](https://github.com/ripienaar/free-for-dev)
+
 # Web Development
 
+### HTML
 1. [Lena Design - Web Development Guide for Absolute Beginners](https://lenadesign.org/)
-1. [JavaScript info](https://javascript.info/) 
-2. [Web Development](https://lenadesign.org/) 
-3.  https://github.com/Asabeneh/30-Days-Of-React
-4. [Find Coder Profile](https://www.findcoder.io/u/patilganesh) 
-5. [DevRel](http://whatisdevrel.com)
-6. [Tech Writing Resources - Cynthia Peter](https://github.com/CynthiaPeter/Technical-Writing-Resources)
-7. [free for Dev](https://github.com/ripienaar/free-for-dev)
-8. [DevRel at Silicon Valley](https://www.elmghari.com/)
-9. [Notion Creator Roadmap](https://www.notion.so/GFG-Content-db4e235f7a7e4cbd87e9e9423b5305bb)
-10. [Web dev Learn](https://web.dev/learn/) 
-11. [Awesome DevRel](https://github.com/ganeshpatil386386/awesome-devrel)
-12. [Online Computer Science Degree - Github Repository](https://github.com/Developer-Y/cs-video-courses)
-13. [Computer Scinece Books](https://github.com/EbookFoundation/free-programming-books/blob/main/courses/free-courses-en.md#sql)
 
+### CSS
+2. [Learn Web Dev - Google ](https://web.dev/learn/) 
+
+### JavaScript
+1. [JavaScript info](https://javascript.info/)
+2. [30 Questions for JS interview](https://share-docs.clickup.com/4575475/d/h/4bm7k-4201/87e3c6fa4769e8e)
+
+### React
+1. [30-Days-of React](https://github.com/Asabeneh/30-Days-Of-React)
+
+### Platforms to Get Job
+1. [Find Coder](https://www.findcoder.io) 
 
 # Linux Resources
 1. [HacktheBox - Learn Linux Online](https://academy.hackthebox.com/dashboard)
 2. [NetworkChunk - Youtube Playlist](https://www.youtube.com/watch?v=VbEx7B_PTOE&list=PLIhvC56v63IJIujb5cyE13oLuyORZpdkL)
 3. [Kunal Kushwaha - Linux Tutorials](https://www.youtube.com/watch?v=iwolPf6kN-k&t=4399s)
+
+# Developer Advocate Resources
+
+1. [DevRel at Silicon Valley](https://www.elmghari.com/)
+2. [Awesome DevRel](https://github.com/ganeshpatil386386/awesome-devrel)
+3. [What is DevRel](http://whatisdevrel.com)
+
+# Tech Writing Resources
+
+1. [Tech Writing Resources - Cynthia Peter](https://github.com/CynthiaPeter/Technical-Writing-Resources)
+
 
 ### Javascript Roadmap 2023
 1. JS Basics from Codedamn
