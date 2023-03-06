@@ -27,11 +27,13 @@ Resources Guide ->
 10. [Web dev Learn](https://web.dev/learn/) 
 11. [Awesome DevRel](https://github.com/ganeshpatil386386/awesome-devrel)
 12. [Online Computer Science Degree - Github Repository](https://github.com/Developer-Y/cs-video-courses)
+13. [Computer Scinece Books](https://github.com/EbookFoundation/free-programming-books/blob/main/courses/free-courses-en.md#sql)
 
 
 # Linux Resources
 1. [HacktheBox - Learn Linux Online](https://academy.hackthebox.com/dashboard)
 2. [NetworkChunk - Youtube Playlist](https://www.youtube.com/watch?v=VbEx7B_PTOE&list=PLIhvC56v63IJIujb5cyE13oLuyORZpdkL)
+3. [Kunal Kushwaha - Linux Tutorials](https://www.youtube.com/watch?v=iwolPf6kN-k&t=4399s)
 
 ### Javascript Roadmap 2023
 1. JS Basics from Codedamn
