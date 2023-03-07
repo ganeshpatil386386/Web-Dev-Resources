@@ -5,12 +5,14 @@ frontendn, Backend, Fullstack to security tools & resources everything at one pl
 <br> <br>
 Resources Guide ->
 
+- Online Computer Science Degree 
 - Web Development 
 - Linux Resources
+- DevRel Resources
+- Tech Writing Resources
 - Backend Development
 - Machine Learning
 - DevOps Resources
-- DevRel Resources
 
 # Online Computer Science Degree
 1. [Online Computer Science Degree - Github Repository](https://github.com/Developer-Y/cs-video-courses)
