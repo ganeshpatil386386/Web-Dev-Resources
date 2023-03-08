@@ -25,7 +25,8 @@ Resources Guide ->
 1. [Lena Design - Web Development Guide for Absolute Beginners](https://lenadesign.org/)
 
 ### CSS
-2. [Learn Web Dev - Google ](https://web.dev/learn/) 
+1. [Learn Web Dev - Google ](https://web.dev/learn/) 
+2. [Image Remover - Photoroom](https://www.photoroom.com/tools/remove-object-from-photo)
 
 ### JavaScript
 1. [JavaScript info](https://javascript.info/)
