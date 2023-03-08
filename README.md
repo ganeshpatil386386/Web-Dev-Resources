@@ -27,6 +27,7 @@ Resources Guide ->
 ### CSS
 1. [Learn Web Dev - Google ](https://web.dev/learn/) 
 2. [Image Remover - Photoroom](https://www.photoroom.com/tools/remove-object-from-photo)
+3. [Snapshot Capture - Screely](https://screely.com/editor)
 
 ### JavaScript
 1. [JavaScript info](https://javascript.info/)
