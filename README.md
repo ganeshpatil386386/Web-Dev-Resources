@@ -37,8 +37,9 @@ Resources Guide ->
 ### React
 1. [30-Days-of React](https://github.com/Asabeneh/30-Days-Of-React)
 
-### Platforms to Get Job
+### Platforms to Get Jobs
 1. [Find Coder](https://www.findcoder.io) 
+2. [Angel.co](https://angel.co/)
 
 # Linux Resources
 1. [HacktheBox - Learn Linux Online](https://academy.hackthebox.com/dashboard)
