@@ -29,6 +29,9 @@ Resources Guide ->
 1. [Learn Web Dev - Google ](https://web.dev/learn/) 
 2. [Image Remover - Photoroom](https://www.photoroom.com/tools/remove-object-from-photo)
 3. [Snapshot Capture - Screely](https://screely.com/editor)
+4. [Undraw SVG Icons](https://undraw.co/search)
+5. [Blob Maker](https://www.blobmaker.app/)
+6. [Unicorn icons Library](https://iconscout.com/unicons/explore/line)
 
 ### JavaScript
 1. [JavaScript info](https://javascript.info/)
