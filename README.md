@@ -32,6 +32,7 @@ Resources Guide ->
 4. [Undraw SVG Icons](https://undraw.co/search)
 5. [Blob Maker](https://www.blobmaker.app/)
 6. [Unicorn icons Library](https://iconscout.com/unicons/explore/line)
+7. [Brad Traversy - Design Resources](https://github.com/bradtraversy/design-resources-for-developers)
 
 ### JavaScript
 1. [JavaScript info](https://javascript.info/)
