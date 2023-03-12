@@ -37,6 +37,9 @@ Resources Guide ->
 ### React
 1. [30-Days-of React](https://github.com/Asabeneh/30-Days-Of-React)
 
+### CSS-Designs
+1. [Games](https://copyassignment.com/first-game-window-in-pygame-and-python/)
+
 ### Platforms to Get Jobs
 1. [Find Coder](https://www.findcoder.io) 
 2. [Angel.co](https://angel.co/)
@@ -55,6 +58,10 @@ Resources Guide ->
 # Tech Writing Resources
 
 1. [Tech Writing Resources - Cynthia Peter](https://github.com/CynthiaPeter/Technical-Writing-Resources)
+
+# Python Resources
+1. [Games](https://copyassignment.com/first-game-window-in-pygame-and-python/)
+
 
 
 ### Javascript Roadmap 2023
