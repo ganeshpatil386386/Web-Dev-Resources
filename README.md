@@ -5,7 +5,7 @@ frontendn, Backend, Fullstack to security tools & resources everything at one pl
 <br> <br>
 Resources Guide ->
 
-- Online Computer Science Degree 
+- [Online Computer Science Degree](#online-computer-science-degree)
 - Web Development 
 - Linux Resources
 - DevRel Resources
@@ -37,6 +37,7 @@ Resources Guide ->
 ### JavaScript
 1. [JavaScript info](https://javascript.info/)
 2. [30 Questions for JS interview](https://share-docs.clickup.com/4575475/d/h/4bm7k-4201/87e3c6fa4769e8e)
+3. [30 Days of JavaScript](https://github.com/Asabeneh/30-Days-Of-JavaScript/blob/master/10_Day_Sets_and_Maps/10_day_Sets_and_Maps.md)
 
 ### React
 1. [30-Days-of React](https://github.com/Asabeneh/30-Days-Of-React)
