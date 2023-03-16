@@ -74,6 +74,7 @@ Resources Guide ->
 
 # DevOps Resources 
 1. [DevOps Tech Community](https://twitter.com/i/communities/1523681883384549376)
+2. [DevOps Git Repo](https://github.com/ganeshpatil386386/DevOps)
 
 # Backend Development Resources 
 1. [Backend Slack Community](https://masteringbackend.com/slack)
