@@ -10,9 +10,9 @@ Resources Guide ->
 - [Linux Resources](#linux-resources)
 - [DevRel Resources](#developer-advocate-resources)
 - [Tech Writing Resources](#tech-writing-resources)
-- [Backend Development]()
+- [Backend Development](#backend-development-resources)
 - [Machine Learning](#machine-learning)
-- [DevOps Resources]()
+- [DevOps Resources](#devops-resources)
 - [Python Resources](#python-resources)
 
 # Online Computer Science Degree
@@ -72,6 +72,11 @@ Resources Guide ->
 # Machine Learning
 1. [Google Crash Course - Tensorflow](https://developers.google.com/machine-learning/crash-course)
 
+# DevOps Resources 
+1. [DevOps Tech Community](https://twitter.com/i/communities/1523681883384549376)
+
+# Backend Development Resources 
+1. [Backend Slack Community](https://masteringbackend.com/slack)
 
 ### Javascript Roadmap 2023
 1. JS Basics from Codedamn
