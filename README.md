@@ -61,6 +61,8 @@ Resources Guide ->
 1. [DevRel at Silicon Valley](https://www.elmghari.com/)
 2. [Awesome DevRel](https://github.com/ganeshpatil386386/awesome-devrel)
 3. [What is DevRel](http://whatisdevrel.com)
+4. [Developer Advocate Life](https://www.youtube.com/watch?v=aS9InrqCtoU)
+5. [How to Become](https://www.youtube.com/watch?v=a7Bsv3uKimI)
 
 # Tech Writing Resources
 
