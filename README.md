@@ -26,6 +26,8 @@ Resources Guide ->
 ### HTML
 1. [Lena Design - Web Development Guide for Absolute Beginners](https://lenadesign.org/)
 2. [Learn HTML & CSS](https://learnhtmlcss.online/)
+3. [W3School Guide](https://www.w3schools.com/html/html_css.asp)
+4. [A Complete Guide to <b>MERN</b>](https://www.mongodb.com/mern-stack)
 ### CSS
 1. [Learn Web Dev - Google ](https://web.dev/learn/) 
 2. [Image Remover - Photoroom](https://www.photoroom.com/tools/remove-object-from-photo)
