@@ -5,15 +5,19 @@ frontendn, Backend, Fullstack to security tools & resources everything at one pl
 <br> <br>
 Resources Guide ->
 
-- [Online Computer Science Degree](#online-computer-science-degree)
-- [Web Development](#html) 
-- [Linux Resources](#linux-resources)
-- [DevRel Resources](#developer-advocate-resources)
-- [Tech Writing Resources](#tech-writing-resources)
-- [Backend Development](#backend-development-resources)
-- [Machine Learning](#machine-learning)
-- [DevOps Resources](#devops-resources)
-- [Python Resources](#python-resources)
+| Sr.no | Resources List | 
+| :---: |     :---      |          
+| 1.    |  [Online Computer Science Degree](#online-computer-science-degree)    | 
+| 2.    |   [Web Development](#html)      | 
+| 3.    |  [Linux Resources](#linux-resources)    | 
+| 4.    |  [DevRel Resources](#developer-advocate-resources)    | 
+| 5.    |  [Tech Writing Resources](#tech-writing-resources)     | 
+| 6.    |  [Backend Development](#backend-development-resources)     | 
+| 7.    |  [Machine Learning](#machine-learning)      | 
+| 8.    |  [DevOps Resources](#devops-resources)    | 
+| 9.    |  [Python Resources](#python-resources)      | 
+
+
 
 # Online Computer Science Degree
 1. [Online Computer Science Degree - Github Repository](https://github.com/Developer-Y/cs-video-courses)
@@ -21,6 +25,7 @@ Resources Guide ->
 3. [free for Dev](https://github.com/ripienaar/free-for-dev)
 4. [Crack Technical Interviews](https://twitter.com/Insharamin/status/1634441599772925952?t=HnKdvpxKiEewEqh9xYplKQ&s=19)
 5. [AWS Cloud Guide](https://github.com/mikeroyal/AWS-Guide)
+
 # Web Development
 
 ### HTML
