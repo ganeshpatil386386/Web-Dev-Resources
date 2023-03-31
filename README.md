@@ -20,11 +20,13 @@ Resources Guide ->
 
 
 # Online Computer Science Degree
-1. [Online Computer Science Degree - Github Repository](https://github.com/Developer-Y/cs-video-courses)
-2. [Computer Scinece Books](https://github.com/EbookFoundation/free-programming-books/blob/main/courses/free-courses-en.md#sql)
-3. [free for Dev](https://github.com/ripienaar/free-for-dev)
-4. [Crack Technical Interviews](https://twitter.com/Insharamin/status/1634441599772925952?t=HnKdvpxKiEewEqh9xYplKQ&s=19)
-5. [AWS Cloud Guide](https://github.com/mikeroyal/AWS-Guide)
+| Sr.no | Resources List | 
+| :---: |     :---      |    
+| 1.    |  [Online Computer Science Degree - Github Repository](https://github.com/Developer-Y/cs-video-courses)   |  
+|2. |[Computer Scinece Books](https://github.com/EbookFoundation/free-programming-books/blob/main/courses/free-courses-en.md#sql)|
+|3. |[free for Dev](https://github.com/ripienaar/free-for-dev)|
+|4. |[Crack Technical Interviews](https://twitter.com/Insharamin/status/1634441599772925952?t=HnKdvpxKiEewEqh9xYplKQ&s=19)|
+|5. |[AWS Cloud Guide](https://github.com/mikeroyal/AWS-Guide)|
 
 # Web Development
 
