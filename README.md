@@ -1,5 +1,10 @@
 # Web-Dev-Resources
 
+![Pink and Maroon Playful Be Right Back Twitch Background](https://user-images.githubusercontent.com/59861179/229166195-d7a6b455-71a4-4096-a4d3-a264911da3e0.jpg)
+
+
+<a href="https://twitter.com/ganeshstwt">  Let's Connect On Twitter </a>
+
 This repository includes all reosurces ou need to learn web development from scartch with advance guide from 
 frontendn, Backend, Fullstack to security tools & resources everything at one place.
 <br> <br>
