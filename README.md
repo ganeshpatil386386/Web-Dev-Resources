@@ -36,18 +36,22 @@ Resources Guide ->
 # Web Development
 
 ### HTML
-1. [Lena Design - Web Development Guide for Absolute Beginners](https://lenadesign.org/)
-2. [Learn HTML & CSS](https://learnhtmlcss.online/)
-3. [W3School Guide](https://www.w3schools.com/html/html_css.asp)
-4. [A Complete Guide to <b>MERN</b>](https://www.mongodb.com/mern-stack)
+| Sr.no  | Resources List | 
+| :---: |     :---      |  
+|1. |[Lena Design - Web Development Guide for Absolute Beginners](https://lenadesign.org/)|
+|2. |[Learn HTML & CSS](https://learnhtmlcss.online/)|
+|3. |[W3School Guide](https://www.w3schools.com/html/html_css.asp)|
+|4. |[A Complete Guide to <b>MERN</b>](https://www.mongodb.com/mern-stack)|
 ### CSS
-1. [Learn Web Dev - Google ](https://web.dev/learn/) 
-2. [Image Remover - Photoroom](https://www.photoroom.com/tools/remove-object-from-photo)
-3. [Snapshot Capture - Screely](https://screely.com/editor)
-4. [Undraw SVG Icons](https://undraw.co/search)
-5. [Blob Maker](https://www.blobmaker.app/)
-6. [Unicorn icons Library](https://iconscout.com/unicons/explore/line)
-7. [Brad Traversy - Design Resources](https://github.com/bradtraversy/design-resources-for-developers)
+| Sr.no  | Resources List | 
+| :---: |     :---      |  
+|1. |[Learn Web Dev - Google ](https://web.dev/learn/)|
+|2. |[Image Remover - Photoroom](https://www.photoroom.com/tools/remove-object-from-photo)|
+|3. |[Snapshot Capture - Screely](https://screely.com/editor)|
+|4. |[Undraw SVG Icons](https://undraw.co/search)|
+|5. |[Blob Maker](https://www.blobmaker.app/)|
+|6. |[Unicorn icons Library](https://iconscout.com/unicons/explore/line)|
+|7. |[Brad Traversy - Design Resources](https://github.com/bradtraversy/design-resources-for-developers)|
 
 ### JavaScript
 1. [JavaScript info](https://javascript.info/)
@@ -94,6 +98,13 @@ Resources Guide ->
 
 # Backend Development Resources 
 1. [Backend Slack Community](https://masteringbackend.com/slack)
+
+# AI Tools Section
+### Audio
+
+### Video
+
+### Text
 
 ### Javascript Roadmap 2023
 1. JS Basics from Codedamn
