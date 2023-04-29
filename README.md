@@ -101,6 +101,7 @@ Resources Guide ->
 
 # AI Tools Section
 ### Audio
+[Adobe AI Audio Enhancer](https://podcast.adobe.com/enhance)
 
 ### Video
 
