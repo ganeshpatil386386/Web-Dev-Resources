@@ -63,10 +63,14 @@ Resources Guide ->
 | 4. | [Scrimba Javascript Course](https://scrimba.com/learn/learnjavascript/use-the-chrome-api-to-get-the-tab-cof4d4a9b8e6dea505a0b1679)|
 
 ### React
-1. [30-Days-of React](https://github.com/Asabeneh/30-Days-Of-React)
+| Sr.no | Resources List | 
+| :---: |     :---      | 
+|1. |[30-Days-of React](https://github.com/Asabeneh/30-Days-Of-React)|
 
 ### CSS-Designs
-1. [Games](https://copyassignment.com/first-game-window-in-pygame-and-python/)
+| Sr.no | Resources List | 
+| :---: |     :---      | 
+|1. |[Games](https://copyassignment.com/first-game-window-in-pygame-and-python/)|
 
 ### Platforms to Get Jobs
 1. [Find Coder](https://www.findcoder.io) 
@@ -78,19 +82,24 @@ Resources Guide ->
 3. [Kunal Kushwaha - Linux Tutorials](https://www.youtube.com/watch?v=iwolPf6kN-k&t=4399s)
 
 # Developer Advocate Resources
+| Sr.no | Resources List | 
+| :---: |     :---      | 
 
-1. [DevRel at Silicon Valley](https://www.elmghari.com/)
-2. [Awesome DevRel](https://github.com/ganeshpatil386386/awesome-devrel)
-3. [What is DevRel](http://whatisdevrel.com)
-4. [Developer Advocate Life](https://www.youtube.com/watch?v=aS9InrqCtoU)
-5. [How to Become](https://www.youtube.com/watch?v=a7Bsv3uKimI)
+|1.| [DevRel at Silicon Valley](https://www.elmghari.com/)|
+|2.| [Awesome DevRel](https://github.com/ganeshpatil386386/awesome-devrel)|
+|3.|[What is DevRel](http://whatisdevrel.com)|
+|4.| [Developer Advocate Life](https://www.youtube.com/watch?v=aS9InrqCtoU)|
+|5.| [How to Become](https://www.youtube.com/watch?v=a7Bsv3uKimI)|
 
 # Tech Writing Resources
-
-1. [Tech Writing Resources - Cynthia Peter](https://github.com/CynthiaPeter/Technical-Writing-Resources)
+| Sr.no | Resources List | 
+| :---: |     :---      | 
+|1. |[Tech Writing Resources - Cynthia Peter](https://github.com/CynthiaPeter/Technical-Writing-Resources)|
 
 # Python Resources
-1. [Games](https://copyassignment.com/first-game-window-in-pygame-and-python/)
+| Sr.no | Resources List | 
+| :---: |     :---      | 
+|1. |[Games](https://copyassignment.com/first-game-window-in-pygame-and-python/)|
 
 # Machine Learning
 1. [Google Crash Course - Tensorflow](https://developers.google.com/machine-learning/crash-course)
