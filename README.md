@@ -84,7 +84,6 @@ Resources Guide ->
 # Developer Advocate Resources
 | Sr.no | Resources List | 
 | :---: |     :---      | 
-
 |1.| [DevRel at Silicon Valley](https://www.elmghari.com/)|
 |2.| [Awesome DevRel](https://github.com/ganeshpatil386386/awesome-devrel)|
 |3.|[What is DevRel](http://whatisdevrel.com)|
