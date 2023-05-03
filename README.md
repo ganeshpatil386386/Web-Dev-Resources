@@ -27,11 +27,12 @@ Resources Guide ->
 # Online Computer Science Degree
 | Sr.no | Resources List | 
 | :---: |     :---      |    
-| 1.    |  [Online Computer Science Degree - Github Repository](https://github.com/Developer-Y/cs-video-courses)   |  
-|2. |[Computer Scinece Books](https://github.com/EbookFoundation/free-programming-books/blob/main/courses/free-courses-en.md#sql)|
-|3. |[free for Dev](https://github.com/ripienaar/free-for-dev)|
-|4. |[Crack Technical Interviews](https://twitter.com/Insharamin/status/1634441599772925952?t=HnKdvpxKiEewEqh9xYplKQ&s=19)|
-|5. |[AWS Cloud Guide](https://github.com/mikeroyal/AWS-Guide)|
+|1. | [Open Source Society University - Path to a free self-taught education in Computer Science!](https://github.com/ossu/computer-science)  |
+|2. |  [Online Computer Science Degree - Github Repository](https://github.com/Developer-Y/cs-video-courses)   |  
+|3. |[Computer Scinece Books](https://github.com/EbookFoundation/free-programming-books/blob/main/courses/free-courses-en.md#sql)|
+|4. |[free for Dev](https://github.com/ripienaar/free-for-dev)|
+|5. |[Crack Technical Interviews](https://twitter.com/Insharamin/status/1634441599772925952?t=HnKdvpxKiEewEqh9xYplKQ&s=19)|
+|6. |[AWS Cloud Guide](https://github.com/mikeroyal/AWS-Guide)|
 
 # Web Development
 
@@ -73,7 +74,7 @@ Resources Guide ->
 
 # Linux Resources
 1. [HacktheBox - Learn Linux Online](https://academy.hackthebox.com/dashboard)
-2. [NetworkChunk - Youtube Playlist](https://www.youtube.com/watch?v=VbEx7B_PTOE&list=PLIhvC56v63IJIujb5cyE13oLuyORZpdkL)
+2. [NetworkChuck - Youtube Playlist](https://www.youtube.com/watch?v=VbEx7B_PTOE&list=PLIhvC56v63IJIujb5cyE13oLuyORZpdkL)
 3. [Kunal Kushwaha - Linux Tutorials](https://www.youtube.com/watch?v=iwolPf6kN-k&t=4399s)
 
 # Developer Advocate Resources
