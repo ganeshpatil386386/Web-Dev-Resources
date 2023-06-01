@@ -73,13 +73,17 @@ Resources Guide ->
 |1. |[Games](https://copyassignment.com/first-game-window-in-pygame-and-python/)|
 
 ### Platforms to Get Jobs
-1. [Find Coder](https://www.findcoder.io) 
-2. [Angel.co](https://angel.co/)
+| Sr.no | Resources List | 
+| :---: |     :---      | 
+|1. | [Find Coder](https://www.findcoder.io) |
+|2. |[Angel.co](https://angel.co/) |
 
 # Linux Resources
-1. [HacktheBox - Learn Linux Online](https://academy.hackthebox.com/dashboard)
-2. [NetworkChuck - Youtube Playlist](https://www.youtube.com/watch?v=VbEx7B_PTOE&list=PLIhvC56v63IJIujb5cyE13oLuyORZpdkL)
-3. [Kunal Kushwaha - Linux Tutorials](https://www.youtube.com/watch?v=iwolPf6kN-k&t=4399s)
+| Sr.no | Resources List | 
+| :---: |     :---      | 
+| 1. | [HacktheBox - Learn Linux Online](https://academy.hackthebox.com/dashboard)|
+| 2. | [NetworkChuck - Youtube Playlist](https://www.youtube.com/watch?v=VbEx7B_PTOE&list=PLIhvC56v63IJIujb5cyE13oLuyORZpdkL)|
+| 3. | [Kunal Kushwaha - Linux Tutorials](https://www.youtube.com/watch?v=iwolPf6kN-k&t=4399s)|
 
 # Developer Advocate Resources
 | Sr.no | Resources List | 
@@ -101,18 +105,26 @@ Resources Guide ->
 |1. |[Games](https://copyassignment.com/first-game-window-in-pygame-and-python/)|
 
 # Machine Learning
-1. [Google Crash Course - Tensorflow](https://developers.google.com/machine-learning/crash-course)
+| Sr.no | Resources List | 
+| :---: |     :---      | 
+|1. |[Google Crash Course - Tensorflow](https://developers.google.com/machine-learning/crash-course)|
 
 # DevOps Resources 
-1. [DevOps Tech Community](https://twitter.com/i/communities/1523681883384549376)
-2. [DevOps Git Repo](https://github.com/ganeshpatil386386/DevOps)
+| Sr.no | Resources List | 
+| :---: |     :---      | 
+|1.| [DevOps Tech Community](https://twitter.com/i/communities/1523681883384549376)|
+|2.| [DevOps Git Repo](https://github.com/ganeshpatil386386/DevOps)|
 
 # Backend Development Resources 
-1. [Backend Slack Community](https://masteringbackend.com/slack)
+| Sr.no | Resources List | 
+| :---: |     :---      | 
+|1.| [Backend Slack Community](https://masteringbackend.com/slack)|
 
 # AI Tools Section
 ### Audio
-[Adobe AI Audio Enhancer](https://podcast.adobe.com/enhance)
+| Sr.no | Resources List | 
+| :---: |     :---      | 
+|1. | [Adobe AI Audio Enhancer](https://podcast.adobe.com/enhance)|
 
 ### Video
 
