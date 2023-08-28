@@ -3,10 +3,10 @@
 ![Pink and Maroon Playful Be Right Back Twitch Background](https://user-images.githubusercontent.com/59861179/229166195-d7a6b455-71a4-4096-a4d3-a264911da3e0.jpg)
 
 
-<a href="https://twitter.com/ganeshstwt">  Let's Connect On Twitter </a>
+<a href="https://twitter.com/ganeshstwt">  Let's Connect On Twitter. </a>
 
-This repository includes all reosurces ou need to learn web development from scartch with advance guide from 
-frontendn, Backend, Fullstack to security tools & resources everything at one place.
+This repository includes all the resources you need to learn web development from scratch with advanced guides from 
+Frontend, Backend, and Fullstack to security tools & resources everything in one place.
 <br> <br>
 Resources Guide ->
 
@@ -53,6 +53,7 @@ Resources Guide ->
 |5. |[Blob Maker](https://www.blobmaker.app/)|
 |6. |[Unicorn icons Library](https://iconscout.com/unicons/explore/line)|
 |7. |[Brad Traversy - Design Resources](https://github.com/bradtraversy/design-resources-for-developers)|
+|8. |[Excali Draw Tool](https://excalidraw.com/)|
 
 ### JavaScript
 | Sr.no  | Resources List | 
@@ -139,18 +140,18 @@ Resources Guide ->
 6. MongoDB
 7. Nextjs
 8. Graphql
-9. React Native - Mobile Applicatins
+9. React Native - Mobile Applications
 10. Electronjs  - Desktop Applications
  
  ## 👨‍💻 Contributing
 
 - Small contributions are still welcome.
 - Any contributions you make are **truly appreciated**.
-- make opensource place to share, learn and build.
+- make an opensource place to share, learn, and build.
 
 ## 🛡️ License
 
-This roject is licensed under the MIT License - see the [LICENSE](https://opensource.org/licenses/MIT) file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://opensource.org/licenses/MIT) file for details.
 
 ## 🙏 Support
 
