@@ -1,9 +1,8 @@
 # Web-Dev-Resources
 
-![Pink and Maroon Playful Be Right Back Twitch Background](https://user-images.githubusercontent.com/59861179/229166195-d7a6b455-71a4-4096-a4d3-a264911da3e0.jpg)
 
 
-<a href="https://twitter.com/ganeshstwt">  Let's Connect On Twitter. </a>
+<a href="https://twitter.com/devgancode">  Let's Connect On Twitter. </a>
 
 This repository includes all the resources you need to learn web development from scratch with advanced guides from 
 Frontend, Backend, and Fullstack to security tools & resources everything in one place.
